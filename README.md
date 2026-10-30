@@ -55,12 +55,13 @@ The project followed **Agile**, working in sprints through six phases: Planning 
 ### Use Case Diagram – Faculty Member
 The faculty member can log in, search, upload files, view projects, bookmark, rate, use voice translation, chat with the bot, and switch language.
 
-![Faculty use case diagram](project_useCase__1_.jpg)
+![Faculty use case diagram](use-case-faculty.jpg)
+
 
 ### Sequence Diagram – Admin Approval
 The admin logs in, views pending project requests, opens one, and either approves or denies it. The database is updated and the project owner is notified.
 
-![Admin approval sequence diagram](seq_drawio.png)
+![Admin approval sequence diagram](sequence-admin-approval.png)
 
 ## 👩‍💻 My Contribution
 
