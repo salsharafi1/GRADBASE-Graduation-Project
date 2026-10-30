@@ -1,4 +1,4 @@
-# GRADBASE – Graduation Projects E-Library
+# Graduation Project: GRADBASE E-Library
 
 A bilingual (Arabic / English) web platform that works as a central digital library for the graduation projects of the College of Computer Science and Information Systems (CSIS), Najran University.
 
